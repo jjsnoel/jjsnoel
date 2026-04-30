@@ -15,8 +15,6 @@
 
 ---
 
-
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,14 +26,17 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<div align="center"> ## 📌 Main Project 
+---
+
+<div align="center"> 
+
+## 📌 Main Project 
+  
 </div>
+
 ### 🎙 STT → LLM → TTS Voice Pipeline
 
-- Whisper 기반 음성 인식
-- Hugging Face 모델 활용
-- Gradio 데모 UI 구성
-- 음성 입력 → 텍스트 변환 → 응답 생성 → 음성 출력 구조 실험
+---
 
 ## 📚 Currently Learning
 
@@ -44,6 +45,8 @@
 - Speech recognition and voice interface concepts
 - Digital content production and media tools
 - How to design technology that feels useful, clear, and human
+
+---
 
 ## 📫 Contact
 
