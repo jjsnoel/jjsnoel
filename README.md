@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 
 ## 🛠 Tech Stack
 
