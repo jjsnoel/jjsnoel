@@ -4,7 +4,7 @@
 # Hi, I'm enzo 👋
 
 ## 🌿 About Me
-
+</div>
 - I am interested in **AI service planning**, **speech technology**, and **user-centered experiences**.
 - I enjoy connecting technology with **language, sound, performance, and storytelling**.
 - I like learning things deeply and turning complex ideas into clear, practical outputs.
@@ -13,7 +13,7 @@
 
 ---
 
-</div>
+
 
 ## 🛠 Tech Stack
 
@@ -27,7 +27,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <div align="center"> ## 📌 Main Project 
-
+</div>
 ### 🎙 STT → LLM → TTS Voice Pipeline
 
 - Whisper 기반 음성 인식
