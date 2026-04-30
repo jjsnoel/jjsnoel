@@ -15,7 +15,6 @@
 
 </div>
 
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -27,9 +26,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-
-## 📌 Main Project <div align="center">
-
+<div align="center"> ## 📌 Main Project 
 
 ### 🎙 STT → LLM → TTS Voice Pipeline
 
@@ -40,10 +37,11 @@
 
 ## 📚 Currently Learning
 
-- Information Processing Engineer
-- ADsP
-- AI service planning
-- Speech AI / Voice interface
+- AI fundamentals and practical service development
+- Data analysis and information processing
+- Speech recognition and voice interface concepts
+- Digital content production and media tools
+- How to design technology that feels useful, clear, and human
 
 ## 📫 Contact
 
