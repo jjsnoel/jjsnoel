@@ -4,7 +4,9 @@
 # Hi, I'm enzo 👋
 
 ## 🌿 About Me
+
 </div>
+
 - I am interested in **AI service planning**, **speech technology**, and **user-centered experiences**.
 - I enjoy connecting technology with **language, sound, performance, and storytelling**.
 - I like learning things deeply and turning complex ideas into clear, practical outputs.
