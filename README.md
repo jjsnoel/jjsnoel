@@ -28,8 +28,6 @@
 
 ---
 
-<div align="center"> 
-
 ## 📌 Main Project 
   
 </div>
